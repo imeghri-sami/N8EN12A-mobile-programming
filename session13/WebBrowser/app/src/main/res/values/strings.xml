@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Web Browser</string>
+    <string name="go_button">GO !</string>
+    <string name="search_field_def_text">http://www.enseeiht.fr</string>
+</resources>
