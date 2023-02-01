@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Player</string>
+    <string name="btn_upload">Select from gallery</string>
+    <string name="btn_play">Intent play</string>
+</resources>
